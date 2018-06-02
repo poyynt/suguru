@@ -5,4 +5,3 @@ Happy to merge your pulls!
 Regards, 
 Parsa(POYYNT)
 
-P.S.: I hate Matin Zare, really. Hate him please, I'm not kidding. I hate him. Hate him. HATE HIM. Yes, I HATE HIM.

@@ -1,5 +1,3 @@
-#I hate Matin Zare, really. Hate him please, I'm not kidding. I hate him. Hate him. HATE HIM. Yes, I HATE HIM.
-#I hate Matin Zare, really. Hate him please, I'm not kidding. I hate him. Hate him. HATE HIM. Yes, I HATE HIM.
 import numpy as np
 import pygame
 
@@ -151,7 +149,6 @@ m = 6
 # f.close()
 # del f
 cList = 36 * [0]
-#I hate Matin Zare, really. Hate him please, I'm not kidding. I hate him. Hate him. HATE HIM. Yes, I HATE HIM.
 #I hate Matin Zare, really. Hate him please, I'm not kidding. I hate him. Hate him. HATE HIM. Yes, I HATE HIM.
 for i in range(36):
     if nList[i] != 0:
@@ -306,5 +303,3 @@ while f:
             f = False
             break
 pygame.quit()
-#I hate Matin Zare, really. Hate him please, I'm not kidding. I hate him. Hate him. HATE HIM. Yes, I HATE HIM.
-#I hate Matin Zare, really. Hate him please, I'm not kidding. I hate him. Hate him. HATE HIM. Yes, I HATE HIM.
